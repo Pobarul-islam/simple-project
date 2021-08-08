@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
+/* ============ Start wpraper ============ */
+
+.header-setcion{
+    width: 100%; padding: 50px 0px;
+    background-color:purple;
+}
+
+.header-setcion .header-left{
+
+    width: 40%;
+    float: left;
+    overflow: hidden;
+}
+
+
+.header-setcion .header-right{
+
+    width: 60%;
+    float: left;
+
+}
